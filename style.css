@@ -1,0 +1,47 @@
+@media (min-width: 35em) {
+  h1 span {
+    display: block;
+  }
+}
+
+h1 img{
+  width: 2.5em;
+  border-radius: 999em;
+  margin-bottom:0.5em;
+}
+
+.skills {
+  list-style: none;
+  padding: 1em 0 1em 0;
+}
+.skills li {
+  display: inline-block;
+  background: #eee;
+  border-radius: 999em;
+  padding: 0.2em 0.7em;
+  margin: 0 0.5em 0.5em 0;
+}
+.skills .top{
+  background: rgb(33, 37, 41);
+  color: white;
+}
+
+.bd-example{
+  position: relative;
+  padding: 1rem;
+  margin: 1rem -.75rem 0;
+  margin-right: -0.75rem;
+  margin-left: -0.75rem;
+  border: solid #dee2e6;
+  border-top-width: medium;
+  border-right-width: medium;
+  border-bottom-width: medium;
+  border-left-width: medium;
+  border-width: 1px 0 0;
+  padding: 1.5rem;
+  margin-right: 0;
+  margin-left: 0;
+  border-width: 1px;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
